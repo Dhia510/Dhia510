@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhia510
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning C++ development
+- 🌱 I’m currently working on projects envolving C++ development
 - 💞️ I’m looking to collaborate on c/c++ CODE for embedded software projects
 
 <!---
